@@ -1,0 +1,36 @@
+<html>
+    <title>
+        Mon portfolio
+    </title>
+    <body style="background-color: rgb(97, 69, 69);">
+    <center>  Bonjour </center>
+        <pre style="color: aliceblues"> voici mon portfolio ou ici il y'aura mon CV 
+            le lien de mon ecole et bien d'autre  </pre>
+    <Strong></Strong>
+    <ul>
+       <li> </li> 
+        <li> </li>
+        <li> </li>
+        <li> </li>
+        <li> </li>
+        <li>  </li>
+        <li>  </li>
+        <li>  </li>
+        <li>  </li>
+
+    </ul>
+    <img src="saintaspais.jpg" alt="https://institutionsaintaspais.fr" width="500" height="500">
+    <table style="border: 3px;" style="border-color: blue;">
+        <Tr>
+            <Th>jean</Th>
+            <th>Kyrian</th>
+            <th>Juk</th>
+        </Tr>
+        <Tr>
+            <Th>26</Th>
+            <th><img src="" alt=""></th>
+            <th><img src="coucher-de-soleil-sur-la-mer.gif" alt=""></th>
+        </Tr>
+    </table>
+
+    </body>
